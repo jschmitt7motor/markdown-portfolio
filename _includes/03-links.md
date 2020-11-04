@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[Inigo Montoya - WikiPedia](https://en.wikipedia.org/wiki/Inigo_Montoya)
+
+[Inigo Montoya - Fandom](https://princessbride.fandom.com/wiki/Inigo_Montoya)
